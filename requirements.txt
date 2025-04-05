@@ -1,0 +1,6 @@
+streamlit
+google-play-scraper
+langchain
+google-generativeai
+python-dotenv
+matplotlib
